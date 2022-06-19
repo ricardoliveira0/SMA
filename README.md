@@ -1,0 +1,2 @@
+És Estudante da Universidade de Évora? Infelizmente encontraste em isolamento? Temos a solução perfeita para ti: UÉats!
+Com a UÉats é agora mais fácil comeres durante o teu período de isolamento! A nossa rede de estudantes voluntários irá entregar-te a casa as tuas refeições. Esperamos realmente que não te falte nada durante esta fase mais complicada e, quem sabe te juntes a nós para ajudares o próximo.
