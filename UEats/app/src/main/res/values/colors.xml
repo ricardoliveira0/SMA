@@ -7,4 +7,8 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="uni_red">#9E1C33</color>
+    <color name="uni_red2">#83162A</color>
+    <color name="uni_dark_red">#570F1C</color>
+    <color name="uni_soft_pink">#EBD3D8</color>
 </resources>
